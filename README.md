@@ -5,13 +5,11 @@
 ---
 
 ### 📌 About Me
-* 🌐 Deep-diving into system administration and networking infrastructure.
-* 📜 Actively studying for the **CompTIA A+**.
-* 🛠️ If I find something interesting, I build it. If something breaks or I hit a roadblock, I figure it out.
+* - Currently studying system administration and networking infrastructure
+* - Actively studying for the CompTIA A+.
+* - If I find something interesting, I'll probably do it. 
+* - If I don't know something, I'll figure it out.
 
 ---
 
-### 📂 What You'll Find Here
-* 🧪 **Homelabs** and network setups
-* 📝 **IT study notes** and helpful resources
-* 💻 **Scripts** and experimental code
+* I document all my homelab projects here, as well as various IT resources I find helpful. I might also put some code snippets and scripts here and there.
