@@ -12,7 +12,7 @@
 
 > **3rd Year BSIT Student at TIP** *(Expected Graduation: 2028)*
 * Currently studying system administration and networking infrastructure
-* Actively studying for the CompTIA A+.
+* Actively studying for the CompTIA A+, Network+, and ultimately the CCNA.
 * If I find something interesting, I'll probably do it. 
 * If I don't know something, I'll figure it out.
 
